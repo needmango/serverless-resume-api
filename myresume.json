@@ -1,82 +1,73 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Lucas Henderson",
+    "label": "Cloud Engineer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "lucashenderson80@gmail.com",
+    "phone": "(425) 236-5907",
+    "url": "https://lucashenderson.com",
+    "summary": "Learning all things cloud",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "9609 Ne 195Th, Cir",
+      "postalCode": "WA 98011",
+      "city": "Bothell",
       "countryCode": "US",
-      "region": "California"
+      "region": "Washington"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "network": ["LinkedIn", "Twitter"
+    ],
+      "username": ["lucas-henderson-90667b187", "needmango"
+    ],
+      "url": ["https://www.linkedin.com/in/lucas-henderson-90667b187/", "https://twitter.com/needmango"
+  ]
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "FusionTek",
+    "position": "Desktop Support Intern",
+    "url": "https://fusiontek.com",
+    "startDate": "2021-07-06",
+    "endDate": "2021-08-31",
+    "summary": "Provide support for desktop and laptop systems, including break/fix service, operating system, application loading, application configurations, user settings, and desktop administrative duties. Escalated cases through the tracking system as well as helped keep the documentation up to date and in tip-top shape. Coordinate projects and tasks with the Service Delivery team members, as well as with the advanced technical team.",
     "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "First venture into IT"
     ]
   }],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
+    "institution": "Community College",
+    "url": "https://www.cascadia.edu/",
+    "area": "Network Infrastructer Technology",
+    "studyType": "Associates",
+    "startDate": "2020-09-18",
+    "endDate": "2021-05-17",
+    "score": "3.73",
     "courses": [
-      "DB1101 - Basic SQL"
+      "BIT 100 - Intro Information Technology",
+      "BIT 102 - Networking Fundamentals",
+      "BIT 158 - Beginning Database",
+      "BIT 101 - Desktop Support Technician",
+      "BIT 275 - Database Design",
+      "CMST 105 - Intro Information Technology",
+      "BIT 130 - Server Administration",
+      "BIT 145 - Security Essentials",
+      "BUS 101 - Introduction to Business",
+      "BIT 135 - Network Infrastructure",
+      "BIT 140 - Advanced Server Administration",
+      "BIT 170 - Linux Administration",
+      "BIT 205 - Virtualization Technologies",
+      "BIT 220 - Elements of Project Management",
+      "BIT 123 - Next-Gen Internet Protocol",
+      "BIT 258 - Integrating Network Infrastructure",
+      "BIT 197 - Work-Based Learning"
     ]
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Full-Stack Web Development",
+    "level": "Competent",
     "keywords": [
+      "Python",
+      "Flask",
       "HTML",
       "CSS",
       "JavaScript"
@@ -87,32 +78,136 @@
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Videogames",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Apex Legends"
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "name": "",
+    "reference": ""
   }],
-  "projects": [{
-    "name": "Project",
-    "description": "Description…",
+  "project1": [{
+    "name": "Spotify-To-Youtube",
+    "description": "Developed a web app using Flask to implement OAuth with Spotify's API to allow a user to choose a saved playlist and have songs downloaded onto the user's folder",
     "highlights": [
-      "Won award at AIHacks 2016"
+      "Works flawlessely"
     ],
     "keywords": [
-      "HTML"
+      "Python",
+      "Flask",
+      "HTML/CSS",
+      "BootStrap"
     ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "url": "https://project.com/",
+    "startDate": "2022-09-01",
+    "endDate": "2022-05-10",
+    "url": "https://github.com/needmango/Spotify-to-Youtube",
     "roles": [
-      "Team Lead"
+      "Lead Developer"
     ],
-    "entity": "Entity",
-    "type": "application"
+    "type": "Web Application"
+  }],
+  "project2": [{
+    "name": "First-Portfolio-Site",
+    "description": "Designed and developed my first website with attractive visuals in under 50 hours",
+    "highlights": [
+      ""
+    ],
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "startDate": "2022-07-28",
+    "endDate": "2022-08-10",
+    "url": "https://github.com/needmango/First-Portfolio-Website",
+    "roles": [
+      "Lead Designer",
+      "Lead Developer"
+    ],
+    "type": "Website"
+  }],
+  "project3": [{
+    "name": "CS50 Finance",
+    "description": "Developed a full-stack web application using Flask to interact with IEX cloud API. Implemented multiple functional features such as buy and sell stock, login/logout user, quote, register, change password, as well as a history of stocks and a portfolio page",
+    "highlights": [
+      ""
+    ],
+    "keywords": [
+      "Python",
+      "Flask",
+      "SQLite3",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "startDate": "2022-08-13",
+    "endDate": "2022-09-2",
+    "url": "https://github.com/needmango/CS50-Finance-project",
+    "roles": [
+      "Lead Developer"
+    ],
+    "type": "Web Application"
+  }],
+  "project4": [{
+    "name": "Azure-Resume",
+    "description": "Deployed a portfolio website with a visitor counter to azure. Also includes CI/CD with github actions",
+    "highlights": [
+      ""
+    ],
+    "keywords": [
+      ".NET6",
+      "Azure",
+      "Azure Functions",
+      "Azure Resource Groups",
+      "Azure Storage Accounts",
+      "Azure Static Web App",
+      "C#",
+      "yaml",
+      "CosmosDB",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "startDate": "2022-01-1",
+    "endDate": "2022-01-18",
+    "url": [
+      "https://lucashenderson.com", "https://github.com/needmango/azure-resume-test"
+    ],
+    "roles": [
+      "Lead Developer"
+    ],
+    "type": "Cloud Deployed Website"
+  }],
+  "project5": [{
+    "name": "Enterprise Networking",
+    "description": "Designed and created a virtualized network infrastructure with a switch fabric containing two LANs, a DMZ, and an outside network. LANs conssited of two DCs, a child domain, and appropriate networking all protected with a firewall config.",
+    "highlights": [
+      "Team project",
+      "College capstone project"
+    ],
+    "keywords": [
+      "Windows",
+      "Hyper-V",
+      "VMWare",
+      "Active Directory",
+      "DFS",
+      "DHCP",
+      "DNS",
+      "NAT",
+      "Print Management",
+      "Organizational Units",
+      "PFSense Firewall",
+      "Virtual Router"
+    ],
+    "startDate": "2022-03-1",
+    "endDate": "2022-05-18",
+    "url": [
+      ""
+    ],
+    "roles": [
+      "Team Leader"
+    ],
+    "type": "Networking"
   }]
 }
